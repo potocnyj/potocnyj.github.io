@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>For Future Reference</title>
+    <link>https://potocnyj.github.io/</link>
+    <description>Recent content on For Future Reference</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; &lt;a href=&#34;https://github.com/potocnyj&#34;&gt;John Potocny&lt;/a&gt; 2018</copyright>
+    <lastBuildDate>Sat, 03 Mar 2018 14:19:41 -0500</lastBuildDate>
+    
+	<atom:link href="https://potocnyj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Starting a Blog</title>
+      <link>https://potocnyj.github.io/posts/first-post/</link>
+      <pubDate>Sat, 03 Mar 2018 14:19:41 -0500</pubDate>
+      
+      <guid>https://potocnyj.github.io/posts/first-post/</guid>
+      <description>I&amp;rsquo;ve tried starting a blog a couple of times before, using platforms like Google Blogs or Wordpress. Every time before I would write maybe a couple of posts, then get bored or forget about it and stop writing. I&amp;rsquo;m trying again, using my own static site this time. The goal this time is to give myself a place to record thoughts while also hopefully also learning a little bit about making a static site (since I&amp;rsquo;ve always been strictly a backend developer).</description>
+    </item>
+    
+  </channel>
+</rss>
