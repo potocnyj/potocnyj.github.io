@@ -1,0 +1,30 @@
+baseURL = ""
+languageCode = "en-us"
+title = "For Future Reference"
+theme = "kiss"
+copyright = "&copy; <a href=\"https://github.com/potocnyj\">John Potocny</a> 2018"
+# Number of posts per page
+Paginate = 10
+enableRobotsTXT = true
+
+[params.info]
+adsense = "" # Adsense ID (ID only, without ca-pub-)
+enableSocial = false # Adds OpenGraph and Twitter cards
+homeTitle = "" # Title for home page
+poweredby = true # Adds powered by Hugo and Kiss below Copyright section
+related = false # Includes related articles
+
+[params.opengraph.twitter]
+page = "" # Twitter Page username. If not set, params.social.twitter will be used.
+
+[params.social]
+twitter = "JohnPotocny1"
+github = "potocnyj"
+email = ""
+linkedin = "johnpotocny"
+facebook = ""
+instagram = ""
+codepen = ""
+
+[taxonomies]
+tag ="tags"
